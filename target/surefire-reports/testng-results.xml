@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-09T21:01:14 CEST" name="Test1" finished-at="2021-10-09T21:01:15 CEST" duration-ms="1612">
+    <groups>
+    </groups>
+    <test started-at="2021-10-09T21:01:14 CEST" name="Command line test" finished-at="2021-10-09T21:01:15 CEST" duration-ms="1612">
+      <class name="Test1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test1@dd8ba08]" started-at="2021-10-09T21:01:12 CEST" name="setUp" finished-at="2021-10-09T21:01:14 CEST" duration-ms="1698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="doLogin()[pri:0, instance:Test1@dd8ba08]" started-at="2021-10-09T21:01:14 CEST" name="doLogin" finished-at="2021-10-09T21:01:15 CEST" duration-ms="1592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Test1@dd8ba08]" started-at="2021-10-09T21:01:15 CEST" name="tearDown" finished-at="2021-10-09T21:01:15 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Test1 -->
+</testng-results>
