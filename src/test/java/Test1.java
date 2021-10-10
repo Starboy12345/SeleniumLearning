@@ -29,12 +29,6 @@ public class Test1 {
     WebElement drag=  driver.findElement(By.xpath("//*[@id=\"slider\"]/span"));
     Actions action = new Actions(driver);
     action.dragAndDropBy(drag,400,0).perform();
-    /*
-    *\*
-    * *
-    * Added new comments****
-     */
-
 
     }
 @AfterSuite
